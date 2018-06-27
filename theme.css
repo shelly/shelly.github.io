@@ -25,3 +25,8 @@ a {
 	color: black;
 	text-decoration: underline;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
