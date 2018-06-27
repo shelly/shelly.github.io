@@ -1,0 +1,27 @@
+html,body {
+  height: 100%; 
+  margin: 5%; 
+  padding: 0px;
+  overflow: hidden; 
+}
+
+h1 {
+  margin: 1%;
+}
+
+p {
+  margin: 2%;
+}
+
+.container {
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto; 
+}
+
+a {
+	color: black;
+	text-decoration: underline;
+}
